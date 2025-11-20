@@ -10,7 +10,7 @@
 ## 🚀 Demonstração Online
 
 Você pode acessar o portfólio online através do link:
-🔗 **[Acesse o Portfólio Aqui](https://github.com/igor-belo/Portif-lio-V2/)**
+🔗 **[Acesse o Portfólio Aqui](https://portifolio-v2-two.vercel.app/)**
 
 ---
 

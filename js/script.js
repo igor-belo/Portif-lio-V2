@@ -1,6 +1,3 @@
-// js/script.js
-
-// 1. Configuração do Particles.js
 tsParticles.load("tsparticles", {
     background: { color: { value: "#0a192f" } }, 
     particles: {
@@ -19,7 +16,6 @@ tsParticles.load("tsparticles", {
     detectRetina: true
 });
 
-// 2. Sistema de Tradução PT/EN
 const translations = {
     pt: {
         heroGreeting: "Olá, meu nome é",
@@ -28,7 +24,6 @@ const translations = {
         btnProjects: "Ver Projetos",
         aboutTitle: "Sobre Mim",
         
-        // PT: Textos com ORACLE
         aboutText1: "Olá! Sou o Igor Belo, um solucionador de problemas apaixonado por arquitetura de software. Como desenvolvedor Back-end, aplico <a href='https://www.python.org/' target='_blank' class='text-accent hover:underline'>Python</a> e <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript' target='_blank' class='text-accent hover:underline'>JavaScript</a> em projetos que vão desde APIs de alta performance até sistemas complexos de automação.",
         
         aboutText2: "Minha experiência é versátil, passando por tecnologias como <a href='https://www.embarcadero.com/br/products/delphi' target='_blank' class='text-accent hover:underline'>Delphi</a> e <a href='https://dotnet.microsoft.com/pt-br/' target='_blank' class='text-accent hover:underline'>.NET</a>. Em bancos de dados, domino o ecossistema SQL com <a href='https://www.postgresql.org/' target='_blank' class='text-accent hover:underline'>PostgreSQL</a>, <a href='https://firebirdsql.org/' target='_blank' class='text-accent hover:underline'>Firebird</a>, <a href='https://www.microsoft.com/pt-br/sql-server/' target='_blank' class='text-accent hover:underline'>SQL Server</a> e <a href='https://www.oracle.com/br/database/' target='_blank' class='text-accent hover:underline'>Oracle</a>.",
@@ -50,7 +45,6 @@ const translations = {
         btnProjects: "Check out my work",
         aboutTitle: "About Me",
         
-        // EN: Textos com ORACLE
         aboutText1: "Hello! I am Igor Belo, a problem solver passionate about software architecture. As a Back-end developer, I apply <a href='https://www.python.org/' target='_blank' class='text-accent hover:underline'>Python</a> and <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' class='text-accent hover:underline'>JavaScript</a> in projects ranging from high-performance APIs to complex automation systems.",
         
         aboutText2: "My experience is versatile, covering technologies such as <a href='https://www.embarcadero.com/products/delphi' target='_blank' class='text-accent hover:underline'>Delphi</a> and <a href='https://dotnet.microsoft.com/' target='_blank' class='text-accent hover:underline'>.NET</a>. In databases, I master the SQL ecosystem with <a href='https://www.postgresql.org/' target='_blank' class='text-accent hover:underline'>PostgreSQL</a>, <a href='https://firebirdsql.org/' target='_blank' class='text-accent hover:underline'>Firebird</a>, <a href='https://www.microsoft.com/sql-server/' target='_blank' class='text-accent hover:underline'>SQL Server</a>, and <a href='https://www.oracle.com/database/' target='_blank' class='text-accent hover:underline'>Oracle</a>.",

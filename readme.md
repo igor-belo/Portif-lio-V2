@@ -50,6 +50,8 @@ O projeto foi construído utilizando tecnologias modernas e leves para garantir 
 └── images/
     └── favicon.ico     # Ícone da aba do navegador
 
+```
+
 ## 🚀 Como rodar localmente
 Como este é um projeto estático (não requer Node.js ou compiladores), é muito simples de executar:
 
@@ -57,7 +59,7 @@ Clone o repositório:
 
 Bash
 
-git clone [https://github.com/igor-belo/portifolio_estatico.git](https://github.com/igor-belo/portifolio_estatico.git)
+git clone [https://github.com/igor-belo/Portif-lio-V2.git](https://github.com/igor-belo/Portif-lio-V2.git)
 Acesse a pasta:
 
 Bash

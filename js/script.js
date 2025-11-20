@@ -41,7 +41,7 @@ const translations = {
     en: {
         heroGreeting: "Hi, my name is",
         heroRole: "Back-End Developer.",
-        heroDesc: "I am a Systems Analysis and Development student focused on building robust and scalable solutions using Python, C#, and complex databases.",
+        heroDesc: "I am a Systems Analysis and Development student focused on building robust and scalable solutions using Python, JavaScript, and databases.",
         btnProjects: "Check out my work",
         aboutTitle: "About Me",
         
